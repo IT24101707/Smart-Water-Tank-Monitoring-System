@@ -103,19 +103,25 @@ This project provided valuable hands-on experience in IoT system development, em
 
 ## 🏗 Final Prototype
 
-![Final Prototype](final-prototype-1.jpeg)
+<p align="center">
+  <img src="final-prototype-1.jpeg" width="700">
+</p>
 
 ---
 
 ## 📸 Final Prototype - Alternate View
 
-![Final Prototype 2](final-prototype-2.jpeg)
+<p align="center">
+  <img src="final-prototype-2.jpeg" width="700">
+</p>
 
 ---
 
 ## 🔌 Hardware Setup
 
-![Hardware Setup](hardware-setup.jpeg)
+<p align="center">
+  <img src="hardware-setup.jpeg" width="700">
+</p>
 
 # 🎯 Project Objectives
 
