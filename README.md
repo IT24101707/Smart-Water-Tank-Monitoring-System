@@ -203,5 +203,3 @@ This repository is published for **educational and portfolio purposes only.**
 Feel free to explore the project and learn from the implementation.
 
 ---
-
-## ⭐ If you found this project interesting, consider giving it a Star!
