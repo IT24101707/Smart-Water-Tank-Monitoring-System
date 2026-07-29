@@ -117,10 +117,6 @@ This project provided valuable hands-on experience in IoT system development, em
 
 ![Hardware Setup](hardware-setup.jpeg)
 
-## 🔌 Hardware Setup
-
-![Hardware Setup](hardware-setup.jpeg)
-
 # 🎯 Project Objectives
 
 - Automate household water tank management
